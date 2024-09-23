@@ -118,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Welcome.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -140,13 +138,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "01770d4bb9b1707a",
+  "active": "225bbba9916bf66a",
   "lastOpenFiles": [
+    "Stundenplan.pdf",
+    "Welcome.md",
     "computerschach",
     "computergrafik",
     "compilerbau",
     "webbasierte anwendungen",
-    "intelligente softwareagenten",
-    "Welcome.md"
+    "intelligente softwareagenten"
   ]
 }
