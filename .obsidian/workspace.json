@@ -8,29 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "225bbba9916bf66a",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Stundenplan.pdf"
-              }
-            }
-          },
-          {
             "id": "644d29c73236123d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "compilerbau/VL 1.md",
+                "file": "webbasierte anwendungen/02 Historisches.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -80,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b851498cc48f6b0f",
@@ -96,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "compilerbau/VL 1.md",
+                "file": "webbasierte anwendungen/02 Historisches.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "compilerbau/VL 1.md",
+                "file": "webbasierte anwendungen/02 Historisches.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "compilerbau/VL 1.md"
+                "file": "webbasierte anwendungen/02 Historisches.md"
               }
             }
           },
@@ -169,8 +159,13 @@
   },
   "active": "644d29c73236123d",
   "lastOpenFiles": [
-    "Stundenplan.pdf",
+    "webbasierte anwendungen/Pasted image 20241014112805.png",
+    "webbasierte anwendungen/assets",
+    "webbasierte anwendungen/assets/Pasted image 20241014112721.png",
+    "webbasierte anwendungen/01 Einführung.md",
+    "webbasierte anwendungen/02 Historisches.md",
     "compilerbau/VL 1.md",
+    "Stundenplan.pdf",
     "Welcome.md",
     "computerschach",
     "computergrafik",
