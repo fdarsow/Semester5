@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3dda4c0f468d67d4",
+        "id": "99cfcea611ae14a1",
         "type": "tabs",
         "children": [
           {
-            "id": "644d29c73236123d",
+            "id": "60238c5d1fa2c9e2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "webbasierte anwendungen/02 Historisches.md",
+                "file": "intelligente softwareagenten/Übung 01.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "b851498cc48f6b0f",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "webbasierte anwendungen/02 Historisches.md",
+                "file": "intelligente softwareagenten/Übung 01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "webbasierte anwendungen/02 Historisches.md",
+                "file": "intelligente softwareagenten/Übung 01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "webbasierte anwendungen/02 Historisches.md"
+                "file": "intelligente softwareagenten/Übung 01.md"
               }
             }
           },
@@ -157,13 +156,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "644d29c73236123d",
+  "active": "60238c5d1fa2c9e2",
   "lastOpenFiles": [
+    "Untitled.md",
+    "intelligente softwareagenten/Übung 01.md",
+    "webbasierte anwendungen/02 Historisches.md",
     "webbasierte anwendungen/Pasted image 20241014112805.png",
     "webbasierte anwendungen/assets",
     "webbasierte anwendungen/assets/Pasted image 20241014112721.png",
     "webbasierte anwendungen/01 Einführung.md",
-    "webbasierte anwendungen/02 Historisches.md",
     "compilerbau/VL 1.md",
     "Stundenplan.pdf",
     "Welcome.md",
