@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "intelligente softwareagenten/Übung 01.md",
+                "file": "intelligente softwareagenten/Vorlesung 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "intelligente softwareagenten/Übung 01.md",
+                "file": "intelligente softwareagenten/Vorlesung 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "intelligente softwareagenten/Übung 01.md",
+                "file": "intelligente softwareagenten/Vorlesung 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "intelligente softwareagenten/Übung 01.md"
+                "file": "intelligente softwareagenten/Vorlesung 2.md"
               }
             }
           },
@@ -158,8 +158,9 @@
   },
   "active": "60238c5d1fa2c9e2",
   "lastOpenFiles": [
-    "Untitled.md",
     "intelligente softwareagenten/Übung 01.md",
+    "intelligente softwareagenten/Vorlesung 2.md",
+    "Untitled.md",
     "webbasierte anwendungen/02 Historisches.md",
     "webbasierte anwendungen/Pasted image 20241014112805.png",
     "webbasierte anwendungen/assets",
