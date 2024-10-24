@@ -1,4 +1,9 @@
 
+| Inhaltsverzeichnis                            |
+| --------------------------------------------- |
+| [Definition](#definition)                     |
+| [Angabe einer Sprache](#angabe-einer-sprache) |
+| [Chomsky Hierarchie](#chomsky-hierarchie)     |
 ## Definition
 
 **Alphabet:** Eine endliche, nichtleere Menge $A$, deren Elemente *Buchstaben (Zeichen)* heißen.
@@ -56,8 +61,7 @@
 
 
 
-### Techn
-iken zur Spezifikation einer Sprache:
+### Techniken zur Spezifikation einer Sprache:
 1. Grammatiken
 2. Maschinen
 3. Reguläre Ausdrücke
