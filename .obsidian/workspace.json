@@ -13,12 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "compilerbau/Formale Sprachen.md",
+                "file": "compilerbau/VL 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Formale Sprachen"
+              "title": "VL 1"
+            }
+          },
+          {
+            "id": "9f3061e547745351",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kontextfreie Sprachen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kontextfreie Sprachen"
+            }
+          },
+          {
+            "id": "645990ac10372c9b",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Stundenplan.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Stundenplan"
             }
           },
           {
@@ -35,7 +61,8 @@
               "title": "Praktikum 1"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -188,15 +215,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "60238c5d1fa2c9e2",
+  "active": "9f3061e547745351",
   "lastOpenFiles": [
     "compilerbau/VL 1.md",
+    "Kontextfreie Sprachen.md",
     "compilerbau/Formale Sprachen.md",
+    "compilerbau/Übung/Praktikum 1.md",
+    "Stundenplan.pdf",
+    "compilerbau/Reguläre Sprachen.md",
     "intelligente softwareagenten/Vorlesung 2.md",
     "Untitled 1.md",
-    "Untitled.md",
     "intelligente softwareagenten/Vorlesung 3.md",
-    "compilerbau/Übung/Praktikum 1.md",
     "compilerbau/Übung",
     "intelligente softwareagenten/Übung 01.md",
     "webbasierte anwendungen/02 Historisches.md",
@@ -204,7 +233,6 @@
     "webbasierte anwendungen/assets",
     "webbasierte anwendungen/assets/Pasted image 20241014112721.png",
     "webbasierte anwendungen/01 Einführung.md",
-    "Stundenplan.pdf",
     "Welcome.md",
     "computerschach",
     "computergrafik",
