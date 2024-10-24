@@ -1,9 +1,7 @@
-Hier ist der Text als Markdown-Datei, wobei die mathematischen Formeln mit $-Zeichen umrundet sind:
-
-
 # Kontextfreie Grammatiken
 
-Eine Grammatik ${\cal G} = ({\cal N}, {\cal T}, \mbox{S}, R)$ heißt **kontextfrei (context free)**, wenn jede Regel links genau ein Nichtterminal hat.
+>[!info] Definition
+> Eine Grammatik ${\cal G} = ({\cal N}, {\cal T}, \mbox{S}, R)$ heißt **kontextfrei (context free)**, wenn jede Regel links genau ein Nichtterminal hat.
 
 Das bedeutet $R \subseteq N \times [(N \cup T)^*]$.
 
@@ -13,14 +11,13 @@ $$\mbox{N} \to {\cal X}$$
 ## Typ 2 Normalformen
 
 Eine Grammatik heißt
-1. **in** {\sc Chomsky} **Normalform**, wenn jede Regel links genau ein Nichtterminal hat und rechts entweder genau ein Terminal oder genau zwei Nichtterminale.
-
-Also wenn $R \subseteq N \times [T \cup (N \cdot N)]$.
+1. **in** $\text{Chomsky}$ **Normalform**, wenn jede Regel links genau ein Nichtterminal hat und rechts entweder genau ein Terminal oder genau zwei Nichtterminale.
+   Also wenn $R \subseteq N \times [T \cup (N \cdot N)]$.
 
 Wenn die Regeln eine der folgenden zwei Formen haben: 
 $$A \to x \quad\quad A \to BC$$
 
-2. **in** {\sc Greibach} **Normalform**, wenn jede Regel links genau ein Nichtterminal hat und rechts stets mit einem Terminal beginnt, dem 0 oder mehr Nichtterminale folgen.
+2. **in** $\text{Greifenbach}$ **Normalform**, wenn jede Regel links genau ein Nichtterminal hat und rechts stets mit einem Terminal beginnt, dem 0 oder mehr Nichtterminale folgen.
 
 Also wenn $R \subseteq N \times [T \cdot N^*]$.
 
@@ -110,22 +107,24 @@ $aab$ ist ein Wort der durch diese Grammatik erzeugten Sprache.
 
 Zu $aab$ gibt es genau die folgenden zwei Ableitungsbäume:
 ```plaintext
-            S
-           / \
-          S   S
-         / \   \
-        S   S   b
-        |   |
-        a   a
+            S                 S
+           / \               / \
+          S   S             S   S
+         / \   \           /   / \
+        S   S   b         a   S   S
+        |   |                 |   |
+        a   a                 a   b
+
 ```
 
 Zu jedem dieser Ableitungsbäume gehört jeweils genau eine Linksableitung und genau eine Rechtsableitung:
 
-| Linksableitung des linken Baumes     | $S \to SS \to SSS \to aSS \to aaS \to aab$    |
-| ------------------------------------ | --------------------------------------------- |
-| Rechtsableitung des linken Baumes    | $S \to SS \to Sb \to SSb \to Sab \to aab$     |
-| Linksableitung des rechten Baumes    | $S \to SS \to aS \to aSS \to aaS \to aab$     |
-| Rechtsableitung des rechten Baumes   | $S \to SS \to SSS \to SSb \to Sab \to aab$    |
+|                                    |                                            |
+| ---------------------------------- | ------------------------------------------ |
+| Linksableitung des linken Baumes   | $S \to SS \to SSS \to aSS \to aaS \to aab$ |
+| Rechtsableitung des linken Baumes  | $S \to SS \to Sb \to SSb \to Sab \to aab$  |
+| Linksableitung des rechten Baumes  | $S \to SS \to aS \to aSS \to aaS \to aab$  |
+| Rechtsableitung des rechten Baumes | $S \to SS \to SSS \to SSb \to Sab \to aab$ |
 
 Zu dieser Sprache gibt es auch eine eindeutige Grammatik: 
 $$S \to aS \mid bS \mid a \mid b$$
